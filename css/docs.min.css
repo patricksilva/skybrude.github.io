@@ -14,15 +14,18 @@ body {
 }
 
 .btn-outline {
-    color: #563d7c;
+    /* color: #563d7c; */
+    color: #2A96DE;
     background-color: transparent;
-    border-color: #563d7c
+    /* border-color: #563d7c */
+    border-color: #2A96DE
 }
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active {
     color: #fff;
-    background-color: #563d7c;
-    border-color: #563d7c
+    /* background-color: #563d7c; */
+    background-color: #2A96DE;
+    border-color: #2A96DE
 }
 
 .btn-outline-inverse {
