@@ -1,6 +1,7 @@
 ---
 title: Is Science Broken?
 layout: post
+author: Elizabeth Matsui
 ---
 
 Recently I was talking to a colleague about whether one of his high

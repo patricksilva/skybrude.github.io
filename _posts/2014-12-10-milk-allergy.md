@@ -1,6 +1,7 @@
 ---
 title: Data Tsunami - Ready to be Surfed
 layout: post
+author: Elizabeth Matsui
 ---
 
 
