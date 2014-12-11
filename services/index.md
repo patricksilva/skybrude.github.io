@@ -1,15 +1,8 @@
 ---     
 title: Skybrude Consulting, LLC - Services
 layout: default
+titlehead: Services
 ---
-
-    <!-- Page content of course! -->
-    <main class="bs-docs-masthead" id="content" role="main">
-      <div class="container">
-	<h1>Services</h1>
-      </div>
-    </main>
-
 
 <div class="container bs-docs-container">
   <div class="bs-docs-section">

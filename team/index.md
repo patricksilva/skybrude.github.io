@@ -1,20 +1,12 @@
 ---
 title: Skybrude Consulting, LLC - Team
 layout: default
+titlehead: Our Team
 ---
 
 
-
-    <!-- Page content of course! -->
-    <main class="bs-docs-masthead" id="content" role="main">
-      <div class="container">
-	<h1>Our Team</h1>
-	
-      </div>
-    </main>
-
-    <div class="container">
-      <img style="float: left; margin-right: 10px; margin-top: 20px" src="../img/matsui.png">
+<div class="container">
+      <img style="float: left; margin-right: 10px; margin-top: 20px" src="/img/matsui.png">
       <div class="col-md-9">
       <h2>Elizabeth C. Matsui, MD, MHS</h2>
       <h4><em>Principal</em></h4> 
@@ -38,20 +30,17 @@ layout: default
       Health.  She completed a pediatric residency at the University
       of California, San Francisco and a fellowship in Allergy and
       Immunology at the Johns Hopkins School of Medicine.</p>
+</div>
+</div>
 
-
-      </div>
-      
-    </div>
-
-    <div class="container">
-      <img style="float: left; margin-top: 20px; margin-right: 10px" src="../img/peng.png">
+<div class="container">
+      <img style="float: left; margin-top: 20px; margin-right: 10px" src="/img/peng.png">
       <div class="col-md-9">
       <h2>Roger D. Peng, PhD</h2>
       <h4><em>Principal</em></h4>
       <p><a href="mailto:roger.peng@skybrudeconsulting.com">roger.peng@skybrudeconsulting.com</a></p>
 
-      <p>Dr. Roger D. Peng is a Co-Founder of Skybrude
+      Dr. Roger D. Peng is a Co-Founder of Skybrude
       and an Associate Professor of Biostatistics at the Johns Hopkins
       Bloomberg School of Public Health. A faculty member at Johns
       Hopkins since 2005, his research interests have focused on
@@ -61,26 +50,26 @@ layout: default
       such as from Medicare, to environmental monitoring networks to
       study the relationship between air pollution and morbidity.
 
-      <p>Dr. Peng is a Co-Founder of
-      the <a href="https://www.coursera.org/specialization/jhudatascience/1">Johns
+      Dr. Peng is a Co-Founder of the <a
+      href="https://www.coursera.org/specialization/jhudatascience/1">Johns
       Hopkins Data Science Specialization</a> offered through
       Coursera. With his colleagues at Johns Hopkins, he has enrolled
       over 1 million students in massive open online statistics
-      courses. He is also a Co-Editor of the
-      popular <a href="http://simplystatistics.org">Simply Statistics
-      blog</a> where he regularly writes about scientific and
-      statistical issues for a general audience.</p>
+      courses. He is also a Co-Editor of the popular <a
+      href="http://simplystatistics.org">Simply Statistics blog</a>
+      where he regularly writes about scientific and statistical
+      issues for a general audience.</p>
 
 
       <p>Dr. Peng holds a B.S. in Applied Mathematics
       from Yale University and a Ph.D. in Statistics from UCLA. </p>
-
+      </div>
 </div>
-    </div>
 
-    <div class="container">
-      <img style="float: left; margin-top: 20px; margin-right: 10px" src="../img/keet.png">
-      <div class="col-md-9">
+
+<div class="container">
+     <img style="float: left; margin-top: 20px; margin-right: 10px" src="/img/keet.png">
+     	   <div class="col-md-9">
       <h2>Corinne A. Keet, MD, PhD</h2>
       <h4><em>Principal</em></h4>
       <p><a href="mailto:corinne.keet@skybrudeconsulting.com">corinne.keet@skybrudeconsulting.com</a></p>
@@ -111,5 +100,5 @@ layout: default
       School of Public Health. </p>
 
 </div>
-    </div>
+</div>
 

@@ -10,7 +10,7 @@
 
     <title>
       
-      Skybrude Consulting, LLC
+      {{ page.title }}
 
     </title>
 
@@ -64,6 +64,14 @@
 	</nav> 
       </div>
     </header>
+
+    <main class="bs-docs-masthead" id="content" role="main">
+      <div class="container">
+	<h1>{{ page.titlehead }}</h1>
+	<p class="lead">{{ page.subhead }}</p>
+      </div>
+    </main>
+
 
     <!-- Page content of course! -->
     {{ content }}

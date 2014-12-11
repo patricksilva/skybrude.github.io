@@ -1,13 +1,8 @@
 ---
-title: Skybrude Consulting, LLC Blog
+title: Skybrude Consulting, LLC - Blog
 layout: default
+titlehead: Blog
 ---
-
-<main class="bs-docs-masthead" id="content" role="main">
-   <div class="container">
-	    <h1>Skybrude Blog</h1>    
-  </div>
-</main>
 
 
 

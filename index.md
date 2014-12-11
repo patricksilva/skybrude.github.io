@@ -1,15 +1,9 @@
 ---
 title: Skybrude Consulting, LLC
 layout: default
+titlehead: Skybrude Consulting
+subhead: Putting the science in data science.
 ---
-
-<main class="bs-docs-masthead" id="content" role="main">
-  <div class="container">
-    <h1>Skybrude Consulting</h1>
-    <p class="lead">Putting the science in data science.</p>
-
-  </div>
-</main>
 
 <div class="bs-docs-featurette">
   <div class="container">
