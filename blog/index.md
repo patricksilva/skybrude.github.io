@@ -1,7 +1,7 @@
 ---
 title: Skybrude Consulting, LLC - Blog
 layout: default
-titlehead: Blog
+titlehead: Skybrude Blog
 ---
 
 
