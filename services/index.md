@@ -1,8 +1,9 @@
----     
-title: Skybrude Consulting, LLC - Services
+---
+title: Skybrude Consulting, LLC - About
 layout: default
 titlehead: Services
 ---
+
 
 <div class="container bs-docs-container">
   <div class="bs-docs-section">
@@ -23,6 +24,7 @@ titlehead: Services
 	  questions to ask to help solve your most important problems.</p>
 
 	</div>
+
 	<div class="col-sm-4">
 	  <h3>Advising on data collection planning and design</h3>
 
@@ -43,19 +45,19 @@ titlehead: Services
 	  results using readily accessible language.</p>
 
 	</div>
-      </div> <!-- row -->
-    </div>
-  </div>
+	</div>
+     </div>	    
+  </div>     
 </div>
 
 <div class="container bs-docs-container">
   <div class="bs-docs-section">
 
-<h3>Take a <a href="skybrude.pdf">deeper look</a> at how
-we can help position a consumer-facing health tech product to enter
-the health care market.</h3>
+  <h3>Take a <a href="/doc/skybrude.pdf">deeper look</a> at how
+  we can help position a consumer-facing health tech product to enter
+  the health  care market.</h3>
 
-</div>
+  </div>
 </div>
 
 <div class="container bs-docs-container">
@@ -71,4 +73,3 @@ the health care market.</h3>
     the most from your data.</p>
   </div>
 </div>
-
