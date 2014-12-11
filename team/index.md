@@ -1,66 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <!-- Meta, title, CSS, favicons, etc. -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Bootstrap, a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.">
-    <meta name="keywords" content="HTML, CSS, JS, JavaScript, framework, bootstrap, front-end, frontend, web development">
+---
+title: Skybrude Consulting, LLC - Team
+layout: default
+---
 
-    <title>
-      
-      Skybrude Consulting, LLC: Team
-
-    </title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
-    
-    
-    <!-- Documentation extras -->
-    <link href="../css/docs.min.css" rel="stylesheet">
-
-    <!-- Favicons
-	 <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
-	 <link rel="icon" href="/favicon.ico">
-	 -->
-
-  </head>
-  <body class="bs-docs-home">
-    <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
-
-    <!-- Docs master nav -->
-    <header class="navbar navbar-static-top bs-docs-nav" id="top" role="banner">
-  <div class="container">
-    <div class="navbar-header">
-      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a href="../" class="navbar-brand">Skybrude</a>
-    </div>
-    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-      <ul class="nav navbar-nav">
-        <li>
-          <a href="../about">About</a>
-        </li>
-        <li>
-          <a href="../team">Team</a>
-        </li>
-        <li>
-          <a href="../services">Services</a>
-        </li>
-	<li><a href="../blog">Blog</a></li>
-            <li>
-              <a href="../contact">Contact</a>
-            </li>
-      </ul>
-    </nav>
-  </div>
-</header>
 
 
     <!-- Page content of course! -->
@@ -171,23 +113,3 @@
 </div>
     </div>
 
-
-    <!-- Footer -->
-    <footer class="bs-docs-footer" role="contentinfo">
-
-      &copy; 2014 Skybrude Consulting, LLC
-
-    </footer>
-
-<!-- Bootstrap core JavaScript
-================================================== -->
-<!-- Placed at the end of the document so the pages load faster -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="../js/bootstrap.min.js"></script>
-<script src="../js/docs.min.js"></script>
-
-
-
-
-  </body>
-</html>

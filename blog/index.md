@@ -3,6 +3,13 @@ title: Skybrude Consulting, LLC Blog
 layout: default
 ---
 
+<main class="bs-docs-masthead" id="content" role="main">
+   <div class="container">
+	    <h1>Skybrude Blog</h1>    
+  </div>
+</main>
+
+
 
 <div class="container bs-docs-container">
 <div class="bs-docs-section">
