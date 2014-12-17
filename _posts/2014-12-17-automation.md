@@ -1,5 +1,5 @@
 ---
-title: The Automation of Big Data: Not So Fast?
+title: The Automation of Big Data - Not So Fast?
 layout: post
 author: Elizabeth Matsui
 ---
