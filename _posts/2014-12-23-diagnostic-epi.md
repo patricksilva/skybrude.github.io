@@ -14,7 +14,7 @@ prenatal genetic screening tests without confirmatory testing because
 [they and their doctors do not understand how to interpret diagnostic
 testing](http://www.bostonglobe.com/metro/2014/12/14/oversold-and-unregulated-flawed-prenatal-tests-leading-abortions-healthy-fetuses/aKFAOCP5N0Kr8S1HirL7EN/story.html). In
 particular, they do not understand the difference between specificity
-and positive predictive value. As I mentioned in my previous post
+and positive predictive value. As I mentioned in my [previous post](http://skybrudeconsulting.com/blog/2014/12/12/diagnostic-testing.html)
 specificity is a measure of how often people without a disease will
 test negative for it. But, if you’re the person with a positive test,
 what you really care about is positive predictive value, which is the
