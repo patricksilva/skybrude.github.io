@@ -11,19 +11,20 @@ titlehead: Skybrude Blog
 <h1 class="page-header">Latest Entries</h1>
 
 
-<ul class="listing">
+<table class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}
-    <li class="listing-seperator">{{ y }}</li>
+    <tr><td class="listing-seperator">{{ y }}</td></td></tr>
   {% endif %}
-  <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  </li>
+  <tr>
+  <td class="listing-item">
+    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time></td>
+    <td class="listing-item"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></td>
+  </tr>
 {% endfor %}
-</ul>
+</table>
 
 </div>
 </div>
